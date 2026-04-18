@@ -1,11 +1,11 @@
-I. Các câu lệnh git
+I. Các câu lệnh trong git
 1. git add .
 2. git commit -m "fix bug"
 3. git push origin main
 4. git init:  là lệnh dùng để khởi tạo một kho lưu trữ (repository - repo) Git mới, cục bộ (local) trong thư mục dự án hiện tại
 5. git clone: lấy từ trên mạng về
 6. git pull: đồng bộ từ trên mạng về máy
-7. git add và git add.: thêm file, folder
+7. git add: thêm file, folder
 8. git commit: sửa
 9. git push: đồng bộ từ máy lên repo mạng
 10. git log hoặc git status: check trạng thái của file
@@ -22,5 +22,5 @@ II. Các câu lệnh trong VS Code
 8. Ctrl + Shift + Q : đóng VS Code
 
 III. Cấu hình git
-git config --global user.email "[EMAIL_ADDRESS]"
-git config --global user.name "anhntl"
+1. git config --global user.email "[EMAIL_ADDRESS]"
+2. git config --global user.name "anhntl"

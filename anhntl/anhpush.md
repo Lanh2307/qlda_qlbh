@@ -21,5 +21,6 @@ II. Các câu lệnh trong VS Code
 7. Ctrl + Shift + W : đóng terminal
 8. Ctrl + Shift + Q : đóng VS Code
 
+III. Cấu hình git
 git config --global user.email "[EMAIL_ADDRESS]"
 git config --global user.name "anhntl"
